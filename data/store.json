@@ -1,0 +1,479 @@
+{
+  "settings": {
+    "brandName": "Milan Express Channel Partner",
+    "tagline": "Your Trusted Partner for Shipping & Shopping.",
+    "primaryPhone": "9445341812",
+    "secondaryPhone": "9080656894",
+    "supportEmail": "milanexpress3515@gmail.com",
+    "addressLine": "No. 42D, Ground Floor, Bharani Street, Bharathi Nagar, Velachery",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600042",
+    "dtdcPartnerBranch": "Velachery DTDC Authorized Franchise #TN-CHN-3515",
+    "upiId": "milanexpress3515@okaxis",
+    "upiPayeeName": "Milan Express Logistics & Services",
+    "upiQrCodeUrl": "",
+    "domesticFlatShippingINR": 80,
+    "freeShippingThresholdINR": 1500,
+    "internationalBaseRatePerKgINR": 1150,
+    "razorpayKeyId": "rzp_test_milanexpress2026",
+    "razorpayEnabled": true,
+    "upiPaymentEnabled": true
+  },
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Products"
+    },
+    {
+      "id": "spices",
+      "name": "Spices & Masalas"
+    },
+    {
+      "id": "sweets",
+      "name": "Traditional Sweets & Snacks"
+    },
+    {
+      "id": "pooja",
+      "name": "Pooja & Spiritual Items"
+    },
+    {
+      "id": "beverages",
+      "name": "Filter Coffee & Beverages"
+    },
+    {
+      "id": "wellness",
+      "name": "Ayurveda & Herbal Care"
+    },
+    {
+      "id": "handicrafts",
+      "name": "Brassware & Handicrafts"
+    }
+  ],
+  "products": [
+    {
+      "id": "PROD-001",
+      "title": "Authentic Madurai Kumbakonam Degree Coffee Powder (80:20 Blend)",
+      "description": "Premium slow-roasted chicory blend ground to perfection from selected Arabica and Robusta beans of Wayanad and Coorg. Delivers rich aroma, thick decoction, and classic South Indian cafe flavor.",
+      "category": "beverages",
+      "priceINR": 360,
+      "stock": 45,
+      "weightGrams": 500,
+      "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Best Seller",
+        "Authentic Blend"
+      ],
+      "featured": true,
+      "shelfLife": "9 Months",
+      "origin": "Kumbakonam, Tamil Nadu"
+    },
+    {
+      "id": "PROD-002",
+      "title": "Tirupati Style Grand Ghee Laddu (Box of 4 Large Laddus)",
+      "description": "Made with 100% pure cow ghee, cashew nuts, golden raisins, green cardamom, and edible camphor aroma. Hygienically packed in food-grade vacuum freshness seals for international travel.",
+      "category": "sweets",
+      "priceINR": 480,
+      "stock": 30,
+      "weightGrams": 600,
+      "image": "https://images.unsplash.com/photo-1605197584547-c93ed1a73373?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Prasad Special",
+        "Pure Ghee"
+      ],
+      "featured": true,
+      "shelfLife": "21 Days",
+      "origin": "Andhra Pradesh / Tamil Nadu"
+    },
+    {
+      "id": "PROD-003",
+      "title": "Handcrafted Solid Brass Kamakshi Amman Deepam (6 Inch Height)",
+      "description": "Authentic heavy-gauge brass deepam engraved with Sri Kamakshi and Gajalakshmi emblems. Traditional auspicious lamp for daily pooja, Diwali, Pongal, and housewarming ceremonies.",
+      "category": "pooja",
+      "priceINR": 890,
+      "stock": 18,
+      "weightGrams": 750,
+      "image": "https://images.unsplash.com/photo-1606293926075-69a00dbfde81?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Handmade",
+        "Heavy Brass"
+      ],
+      "featured": true,
+      "origin": "Swamimalai, Tamil Nadu"
+    },
+    {
+      "id": "PROD-004",
+      "title": "Authentic Chettinad Traditional Masala Combo (Pack of 4 Varieties)",
+      "description": "Stone-ground authentic Chettinad Kulambu Milagai Thool, Pepper Chicken Chukka Masala, Biryani Spice Blend, and Rasam Podi. Free from artificial preservatives and coloring agents.",
+      "category": "spices",
+      "priceINR": 420,
+      "stock": 50,
+      "weightGrams": 400,
+      "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Stone Ground",
+        "Zero Preservatives"
+      ],
+      "featured": true,
+      "shelfLife": "12 Months",
+      "origin": "Karaikudi, Chettinad"
+    },
+    {
+      "id": "PROD-005",
+      "title": "Pure Mysore Sandalwood Incense Sticks & Dhoop Cones Gift Hamper",
+      "description": "Extracted from natural Santalum album sandalwood oil. Natural lingering aroma creating a serene, temple-like divine atmosphere in homes, prayer rooms, and meditation centers.",
+      "category": "pooja",
+      "priceINR": 290,
+      "stock": 60,
+      "weightGrams": 250,
+      "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Temple Fragrance",
+        "Natural Oils"
+      ],
+      "featured": false,
+      "shelfLife": "24 Months",
+      "origin": "Mysuru, Karnataka"
+    },
+    {
+      "id": "PROD-006",
+      "title": "Authentic Kerala Kai Murukku & Kara Boondi Crispy Snack Hamper",
+      "description": "Crispy traditional hand-twisted rice and urad flour murukku fried in pure coconut oil with asafoetida and cumin seeds. Super crunchy, nostalgic festive snack.",
+      "category": "sweets",
+      "priceINR": 340,
+      "stock": 35,
+      "weightGrams": 500,
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Crunchy",
+        "Tea Time Favorite"
+      ],
+      "featured": false,
+      "shelfLife": "45 Days",
+      "origin": "Palakkad, Kerala"
+    },
+    {
+      "id": "PROD-007",
+      "title": "Cold-Pressed Wood Churned Sesame Gingelly Oil (Idhayam Style 1 Litre)",
+      "description": "Pressed using traditional wooden chekku / ghani without heat treatment. Retains natural zinc, calcium, and sesame lignans. Essential for traditional South Indian culinary and medicinal uses.",
+      "category": "wellness",
+      "priceINR": 395,
+      "stock": 25,
+      "weightGrams": 1050,
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Wood Pressed",
+        "Unrefined"
+      ],
+      "featured": true,
+      "shelfLife": "12 Months",
+      "origin": "Erode, Tamil Nadu"
+    },
+    {
+      "id": "PROD-008",
+      "title": "Traditional Brass Ganesha Idol for Pooja & Car Dashboard (4 Inch)",
+      "description": "Finely sculpted brass Vinayakar idol with antique golden finish. Brings auspicious blessings, positive vibration, and prosperity to homes and commercial spaces.",
+      "category": "handicrafts",
+      "priceINR": 650,
+      "stock": 14,
+      "weightGrams": 480,
+      "image": "https://images.unsplash.com/photo-1567591974584-f1832dfd6c6b?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Intricate Carving",
+        "Brass Gift"
+      ],
+      "featured": false,
+      "origin": "Thanjavur, Tamil Nadu"
+    },
+    {
+      "id": "PROD-009",
+      "title": "Traditional Organic Nattu Sakkarai (Pure Country Cane Sugar 1kg)",
+      "description": "100% natural unrefined jaggery cane sugar prepared without chemical clarifiers, sulphur, or artificial bleach. Ideal for baby foods, herbal decoctions, tea, and desserts.",
+      "category": "wellness",
+      "priceINR": 180,
+      "stock": 70,
+      "weightGrams": 1000,
+      "image": "https://images.unsplash.com/photo-1587132137056-bfbf0166836e?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Organic",
+        "Chemical Free"
+      ],
+      "featured": false,
+      "shelfLife": "12 Months",
+      "origin": "Salem, Tamil Nadu"
+    },
+    {
+      "id": "PROD-010",
+      "title": "Authentic Ayurvedic Chyawanprash with Amalaki & Saffron (500g)",
+      "description": "Formulated following Charaka Samhita guidelines with 48 potent Himalayan herbs, wild amla gooseberries, raw honey, and Kashmir saffron. Elevates vigor and immunity.",
+      "category": "wellness",
+      "priceINR": 460,
+      "stock": 40,
+      "weightGrams": 550,
+      "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Immunity Booster",
+        "Herbal Tonic"
+      ],
+      "featured": false,
+      "shelfLife": "24 Months",
+      "origin": "Kerala Ayurveda"
+    }
+  ],
+  "courierBookings": [
+    {
+      "shipmentType": "domestic",
+      "senderName": "Test User",
+      "senderMobile": "9445341812",
+      "senderAddress": "Test Addr",
+      "senderPinCode": "600001",
+      "receiverName": "Recv User",
+      "receiverMobile": "9080656894",
+      "receiverAddress": "Recv Addr",
+      "receiverPinCodeOrCountry": "560001",
+      "parcelContents": "Books and sweets",
+      "approxWeightKg": 2,
+      "pickupPreference": "home_pickup",
+      "id": "MEX-BK-2026-8539",
+      "createdAt": "2026-10-14T15:51:08.745Z",
+      "status": "requested",
+      "courierPartner": "DTDC"
+    },
+    {
+      "id": "MEX-BK-2026-1042",
+      "createdAt": "2026-10-12T10:30:00Z",
+      "shipmentType": "domestic",
+      "senderName": "Suresh Subramanian",
+      "senderMobile": "9840123456",
+      "senderAddress": "Flat 3B, Sri Krishna Apts, T. Nagar",
+      "senderPinCode": "600017",
+      "receiverName": "Anand Narayanan",
+      "receiverMobile": "9941987654",
+      "receiverAddress": "12, 4th Cross, Indiranagar, Bengaluru",
+      "receiverPinCodeOrCountry": "560038",
+      "destinationCountry": "India",
+      "parcelContents": "Traditional sweets, festival dresses and family documents",
+      "approxWeightKg": 3.5,
+      "pickupPreference": "home_pickup",
+      "pickupDate": "2026-10-13",
+      "pickupTimeSlot": "10:00 AM - 01:00 PM",
+      "additionalInstructions": "Fragile items inside. Please handle with care.",
+      "status": "booked_with_dtdc",
+      "quotationAmount": 380,
+      "quotationNotes": "DTDC Plus Express Service with doorstep delivery",
+      "quotationDate": "2026-10-12T11:15:00Z",
+      "actualWeightKg": 3.6,
+      "courierPartner": "DTDC",
+      "dtdcConsignmentNumber": "MEX-DTDC-7849120",
+      "adminNotes": "Handed over to DTDC Central Hub. AWB active."
+    },
+    {
+      "id": "MEX-BK-2026-1043",
+      "createdAt": "2026-10-13T14:20:00Z",
+      "shipmentType": "international",
+      "senderName": "Revathi Natarajan",
+      "senderMobile": "9841876543",
+      "senderAddress": "28, 1st Main Road, Anna Nagar East, Chennai",
+      "senderPinCode": "600102",
+      "receiverName": "Karthik Natarajan",
+      "receiverMobile": "+1-408-555-0199",
+      "receiverAddress": "742 Evergreen Terrace, San Jose, California",
+      "receiverPinCodeOrCountry": "95123",
+      "destinationCountry": "United States of America",
+      "parcelContents": "Homemade snacks, brass puja items, silk saree, spices",
+      "approxWeightKg": 8.5,
+      "pickupPreference": "counter_drop",
+      "additionalInstructions": "Need vacuum packed food declaration certificate.",
+      "status": "quotation_ready",
+      "quotationAmount": 9775,
+      "quotationNotes": "DTDC International Express (4-6 working days) including customs clearance documents.",
+      "quotationDate": "2026-10-13T15:30:00Z",
+      "actualWeightKg": 8.5,
+      "courierPartner": "DTDC International",
+      "adminNotes": "Waiting for customer WhatsApp payment approval."
+    }
+  ],
+  "orders": [
+    {
+      "id": "MEX-ORD-2026-9281",
+      "createdAt": "2026-10-13T09:15:00Z",
+      "customerName": "Deepa Venkat",
+      "customerEmail": "deepa.v@example.com",
+      "customerMobile": "9790112233",
+      "deliveryAddress": "Plot 15, VGP Layout, Palavakkam, ECR",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pinCode": "600041",
+      "country": "India",
+      "items": [
+        {
+          "productId": "PROD-001",
+          "title": "Authentic Madurai Kumbakonam Degree Coffee Powder (80:20 Blend)",
+          "priceINR": 360,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=800&q=80",
+          "weightGrams": 500
+        },
+        {
+          "productId": "PROD-003",
+          "title": "Handcrafted Solid Brass Kamakshi Amman Deepam (6 Inch Height)",
+          "priceINR": 890,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1606293926075-69a00dbfde81?auto=format&fit=crop&w=800&q=80",
+          "weightGrams": 750
+        }
+      ],
+      "subtotalINR": 1610,
+      "shippingChargesINR": 0,
+      "totalINR": 1610,
+      "status": "shipped",
+      "paymentMethod": "upi_qr",
+      "paymentStatus": "verified",
+      "paymentTransactionRef": "UTR-328901847192",
+      "paymentVerifiedAt": "2026-10-13T09:45:00Z",
+      "paymentVerifiedBy": "Admin (Milan Express)",
+      "dtdcConsignmentNumber": "MEX-DTDC-8930211"
+    }
+  ],
+  "purchaseRequests": [
+    {
+      "id": "MEX-REQ-2026-3021",
+      "createdAt": "2026-10-11T16:00:00Z",
+      "customerName": "Meenakshi Sundaram",
+      "customerEmail": "meena.uk@example.com",
+      "customerWhatsApp": "+44 7700 900123",
+      "productName": "Traditional Nalli Silks Soft Silk Saree (Peacock Blue with Mustard Zari)",
+      "productDescription": "Looking for authentic Kanchipuram style soft silk saree from Nalli Silks T. Nagar Chennai branch, lightweight for London wedding.",
+      "referenceUrlOrStore": "Nalli Silks, Panagal Park, T. Nagar, Chennai",
+      "quantity": 2,
+      "deliveryCountry": "United Kingdom",
+      "deliveryAddress": "18 Wimbledon High Street, London SW19 5DX",
+      "additionalInstructions": "Please share photos on WhatsApp before finalizing billing.",
+      "status": "quotation_sent",
+      "quotedProductPriceINR": 9800,
+      "quotedProcurementFeeINR": 750,
+      "quotedShippingINR": 3400,
+      "totalQuotedINR": 13950,
+      "adminNotes": "Checked with Nalli sales executive; 3 matching colors shortlisted and sent to customer on WhatsApp."
+    }
+  ],
+  "nriRequests": [
+    {
+      "id": "MEX-NRI-2026-5082",
+      "createdAt": "2026-10-10T12:00:00Z",
+      "customerName": "Ramesh Parthasarathy",
+      "customerEmail": "ramesh.p@example.com",
+      "customerWhatsApp": "+1 416 555 0148",
+      "destinationCountry": "Canada",
+      "serviceType": "package_consolidation",
+      "itemList": [
+        {
+          "itemName": "Amazon India parcel (Books & Ayurvedic medicines)",
+          "quantity": 1
+        },
+        {
+          "itemName": "Sri Krishna Sweets Mysurpa (Relatives dropping at Milan Express counter)",
+          "quantity": 4
+        },
+        {
+          "itemName": "Brass Vilakku and Pooja items from Mylapore",
+          "quantity": 2
+        }
+      ],
+      "isConsolidatedShipment": true,
+      "expectedPackagesCount": 3,
+      "additionalNotes": "Please combine into single rigid double-wall carton with bubble wrap.",
+      "status": "repacked",
+      "quotedConsolidationINR": 600,
+      "quotedInternationalShippingINR": 6800,
+      "adminNotes": "All 3 parcels received. Total consolidated weight reduced from 7.8kg to 5.4kg volumetric."
+    }
+  ],
+  "trackingRecords": [
+    {
+      "consignmentNumber": "MEX-DTDC-7849120",
+      "referenceId": "MEX-BK-2026-1042",
+      "courierPartner": "DTDC Express Ltd.",
+      "serviceType": "DTDC Domestic Priority Air",
+      "origin": "Chennai (TN-CHN-3515)",
+      "destination": "Bengaluru (KA-BLR-04)",
+      "senderName": "Suresh Subramanian",
+      "receiverName": "Anand Narayanan",
+      "bookingDate": "2026-10-12 11:30 AM",
+      "expectedDeliveryDate": "2026-10-14",
+      "currentStatus": "In Transit - Out for Delivery",
+      "milestones": [
+        {
+          "id": "m1",
+          "timestamp": "12 Oct 2026, 11:30 AM",
+          "status": "Booking Confirmed & AWB Generated",
+          "location": "Milan Express Partner Hub, Chennai",
+          "description": "Consignment booked under DTDC Express network with AWB MEX-DTDC-7849120."
+        },
+        {
+          "id": "m2",
+          "timestamp": "12 Oct 2026, 06:45 PM",
+          "status": "Departed from Origin Sorting Facility",
+          "location": "DTDC Chennai Central Hub",
+          "description": "Bagged and manifested on overnight freight connection to Bengaluru."
+        },
+        {
+          "id": "m3",
+          "timestamp": "13 Oct 2026, 05:20 AM",
+          "status": "Arrived at Destination Hub",
+          "location": "DTDC Bengaluru South Hub",
+          "description": "Shipment arrived at destination facility and undergone inward scan."
+        },
+        {
+          "id": "m4",
+          "timestamp": "14 Oct 2026, 08:30 AM",
+          "status": "Out for Delivery",
+          "location": "DTDC Indiranagar Branch, Bengaluru",
+          "description": "Assigned to courier executive for final doorstep delivery."
+        }
+      ]
+    },
+    {
+      "consignmentNumber": "MEX-DTDC-8930211",
+      "referenceId": "MEX-ORD-2026-9281",
+      "courierPartner": "DTDC Express Ltd.",
+      "serviceType": "DTDC Intra-City Local Express",
+      "origin": "Chennai Central (TN-CHN-3515)",
+      "destination": "Palavakkam ECR, Chennai",
+      "senderName": "Milan Express E-Commerce",
+      "receiverName": "Deepa Venkat",
+      "bookingDate": "2026-10-13 10:15 AM",
+      "expectedDeliveryDate": "2026-10-14",
+      "currentStatus": "In Transit",
+      "milestones": [
+        {
+          "id": "m1",
+          "timestamp": "13 Oct 2026, 10:15 AM",
+          "status": "Order Dispatched",
+          "location": "Milan Express Fulfillment Center",
+          "description": "Order items packed, verified, and handed to DTDC Local Express."
+        },
+        {
+          "id": "m2",
+          "timestamp": "13 Oct 2026, 04:30 PM",
+          "status": "In Transit at Local Hub",
+          "location": "DTDC Guindy Sorting Center",
+          "description": "Processed and scheduled for South Chennai delivery route."
+        }
+      ]
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "ENQ-1001",
+      "createdAt": "2026-10-13T16:00:00Z",
+      "name": "Kavitha Rajan",
+      "mobile": "9884019283",
+      "email": "kavitha.r@example.com",
+      "enquiryType": "international_courier",
+      "message": "Need quote for sending 12kg homemade sweets and snacks to Dallas, USA for Diwali. Do you provide vacuum packing?",
+      "status": "contacted",
+      "adminNotes": "WhatsApp quote sent. Vacuum packing facility confirmed."
+    }
+  ]
+}

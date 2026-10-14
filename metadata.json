@@ -1,0 +1,6 @@
+{
+  "name": "Milan Express Channel Partner - Shipping & Shopping",
+  "description": "Your Trusted Partner for Shipping & Shopping. Book domestic and international courier with DTDC, shop authentic Indian products, request custom procurement, and track shipments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
